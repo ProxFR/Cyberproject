@@ -18,6 +18,7 @@
             padding: 20px;
             text-align: justify;
             margin: 0 auto;
+            
         }
     </style>
 
