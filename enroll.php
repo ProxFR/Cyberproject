@@ -91,7 +91,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 "content": {
                     "message": "This site uses only the cookies that are necessary for its operation, they are mandatory.",
                     "link": "Read more about our cookie",
-                    "href": "http://localhost/cyber_project/policy.php"
+                    "href": "policy.php"
                 }
             })
         });
