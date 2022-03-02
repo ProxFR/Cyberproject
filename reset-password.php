@@ -82,12 +82,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <style>
         body {
             font: 14px sans-serif;
+            display: flex;
+            flex-direction: column;
+            min-height: 100vh;
         }
 
         .wrapper {
             width: 360px;
             padding: 20px;
             margin: 0 auto;
+            flex: 1;
         }
     </style>
 
